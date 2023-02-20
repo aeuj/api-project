@@ -4,5 +4,5 @@
 
 시간순으로
 <ol>
-<li>book-api📚 => api활용 책 검색 미니 웹 사이트</li>
+<li>book-ajax📚 => api활용 책 검색 미니 웹 사이트</li>
 </ol>
